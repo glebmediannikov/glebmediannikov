@@ -1,6 +1,6 @@
 # Gleb Mediannikov
 
-## Marketing, Growth & Digital Strategy Leader
+## Marketing, Growth & Digital Strategy Leader | SEO/AEO | Analytics | AI
 
 I’m a senior marketing and digital strategy leader with 15+ years of experience across growth marketing, performance media, SEO/AEO, web strategy, CRM, analytics, automation, product launches, and cross-functional program management.
 
