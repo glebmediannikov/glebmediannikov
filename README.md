@@ -29,26 +29,25 @@ My work sits at the intersection of **marketing strategy, search, content, data,
 
 ## Featured Portfolio Projects
 
-### 1. SEO & AEO Growth Analysis
+### 1. [SEO & AEO Growth Analysis](https://github.com/glebmediannikov/seo-aeo-growth-analysis)
 An end-to-end analysis showing how organic-search performance can be connected to content, landing-page behavior, and conversion outcomes.
 
 **Demonstrates:** SEO/AEO strategy, search analytics, Python, KPI design, executive recommendations.
 
-### 2. Marketing Performance Dashboard
+### 2. [Marketing Performance Dashboard](https://github.com/glebmediannikov/marketing-performance-dashboard)
 A multi-channel performance analysis across Paid Search, Organic Search, Paid Social, Referral, Email, and Direct traffic.
 
 **Demonstrates:** attribution thinking, CAC/CPA/ROAS analysis, funnel diagnostics, marketing decision support.
 
-### 3. SEO Content Audit Automation
-A Python-based audit workflow that checks titles, meta descriptions, headings, word count, internal links, and common on-page SEO issues.
-
-**Demonstrates:** technical SEO, automation, scalable content operations, QA.
-
-### 4. AI Search Visibility Framework
+### 3. [AI Search Visibility Framework](https://github.com/glebmediannikov/ai-search-visibility-framework)
 A practical framework for evaluating whether content is structured for AI-assisted discovery and answer engines.
 
 **Demonstrates:** AEO, structured content, entity coverage, FAQ design, citation readiness, content-gap analysis.
 
+### 4. [SEO Content Audit Automation](https://github.com/glebmediannikov/seo-content-audit-automation)
+A Python-based audit workflow that checks titles, meta descriptions, headings, word count, internal links, and common on-page SEO issues.
+
+**Demonstrates:** technical SEO, automation, scalable content operations, QA.
 ---
 
 📍 Ashland, Massachusetts · Eastern Time  
